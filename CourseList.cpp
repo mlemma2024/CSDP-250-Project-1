@@ -1,9 +1,6 @@
-//
 //  CourseList.cpp
 //  course record manager
-//
 //  Created by meadi lemma on 10/08/24.
-//
 
 #include "CourseList.h"
 #include <iostream>
