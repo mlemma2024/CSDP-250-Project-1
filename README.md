@@ -24,4 +24,4 @@ The program will print the list of courses before and after deleting two selecte
 4. Choose two courses to delete.
 5. View the course list before and after deletion.
 
-### Sample Output (Screenshot)
+### Sample Output
