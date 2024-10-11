@@ -9,7 +9,7 @@ This C++ program manages the courses a Computer Science student has taken so far
 
 ## Input Data
 1. The program result in the user to input 10 courses, where each course consists of:
-   - Course code (e.g., 250)
+   - Course code
    - Credit hours
    - Grade
 2. After the courses are entered, the program displays the list, deletes two courses, and then displays the updated list.
